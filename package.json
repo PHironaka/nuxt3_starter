@@ -9,14 +9,14 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.38.4",
-    "@nuxtjs/supabase": "^0.3.5",
-    "eslint": "^8.38.0",
-    "nuxt": "^3.4.0",
-    "prettier": "^2.8.7",
-    "typescript": "*"
+    "@antfu/eslint-config": "^0.39.5",
+    "@nuxtjs/supabase": "^0.3.7",
+    "eslint": "^8.43.0",
+    "nuxt": "^3.5.3",
+    "prettier": "^2.8.8",
+    "typescript": "5.1.3"
   },
   "dependencies": {
-    "@nuxthq/ui": "^1.2.10"
+    "@nuxthq/ui": "^2.4.1"
   }
 }
